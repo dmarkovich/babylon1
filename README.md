@@ -1,2 +1,2 @@
 # babylon1
-First attempt a babylon
+First attempt at babylon
